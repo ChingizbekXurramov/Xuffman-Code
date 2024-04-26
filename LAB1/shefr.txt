@@ -1,0 +1,6 @@
+Cryptography is the process of hiding or coding information. Only the person to whom a was intended for can read and process the information.
+The art of cryptography is used in bank cards, computer passwords, and ecommerce.
+Modern cryptography techniques include algorithms and ciphers. They are used to encrypt and decrypt information.
+Cryptography provides 4 security services: 1) confidentiality 2) data integrity; 3) authentication; and 4) non-repudiation.
+There are two cryptosystems: 1) Symmetric-in this system only one key is used to encrypt and decrypt information 2) Asymmetric -in this system two keys are used: public key to encrypt information and private key to decrypt information.
+Cryptography is important to make communication and information secure in transit and to prevent it from being read by untrusted parties.
